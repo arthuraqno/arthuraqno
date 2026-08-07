@@ -1,4 +1,4 @@
-### Olá, eu sou o Arthur 👋
+### Olá, eu sou o Arthur Aquino 👋
 
 - 🔧 Desenvolvedor Backend Python
 - 🚀 Construo APIs REST com FastAPI, PostgreSQL, SQLAlchemy e autenticação JWT
