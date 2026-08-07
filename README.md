@@ -26,4 +26,4 @@ Confira os repositórios fixados no meu perfil — cada um documentado com READM
 
 ### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuraqno/)
