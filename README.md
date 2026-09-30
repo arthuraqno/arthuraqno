@@ -33,5 +33,5 @@ Confira os repositórios fixados no meu perfil, cada um documentado com README e
 <p align="left">
   <a href="https://www.linkedin.com/in/arthuraqno/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="40"/></a>&nbsp;
   <a href="https://www.instagram.com/arthuraqnoo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram" height="40"/></a>&nbsp;
-  <a href="mailto:arthuraquino55@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="40"/></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arthuraquino55@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="40"/></a>
 </p>
